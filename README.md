@@ -1,2 +1,4 @@
 # Completing-the-Square-with-Python
-A python 3 algorithm that takes a value from the user and completes the square.
+
+A Python 3 algorithm that takes a value for 'B' from the user
+and performs the mathematical function called Completing the Square.
